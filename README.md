@@ -44,7 +44,6 @@ Used PCA, clustering and tree-based classifiers.
 ## 📫 Let's Connect!
 
 📍 [LinkedIn](https://www.linkedin.com/in/oriana-felszer/)  
-📧 orianafelszer@gmail.com  
 🌍 Based in Israel, born in Argentina 🇦🇷
 
 _"Organized mind. Passion for data. Clear impact."_
